@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #4F5D95; 
-  width: 57.208%;
+  width: 57.170%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 24.742%;
+  width: 24.747%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 8.962%;
+  width: 8.960%;
 " class="progress-item"></span><span style="
   background-color: #67b8de; 
-  width: 4.339%;
+  width: 4.365%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 2.062%;
+  width: 2.073%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
   width: 0.811%;
 " class="progress-item"></span><span style="
   background-color: #f7523f; 
-  width: 0.761%;
+  width: 0.760%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 0.586%;
+  width: 0.585%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 0.499%;
@@ -200,7 +200,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">57.21%</span>
+  <span class="percent">57.17%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -216,7 +216,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">24.74%</span>
+  <span class="percent">24.75%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -248,7 +248,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Liquid</span>
-  <span class="percent">4.34%</span>
+  <span class="percent">4.36%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -264,7 +264,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">2.06%</span>
+  <span class="percent">2.07%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
