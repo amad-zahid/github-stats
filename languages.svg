@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #4F5D95; 
-  width: 57.158%;
+  width: 57.140%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 24.732%;
+  width: 24.734%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 8.950%;
+  width: 8.955%;
 " class="progress-item"></span><span style="
   background-color: #67b8de; 
-  width: 4.380%;
+  width: 4.393%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 2.097%;
+  width: 2.096%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
   width: 0.810%;
@@ -200,7 +200,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">57.16%</span>
+  <span class="percent">57.14%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -248,7 +248,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Liquid</span>
-  <span class="percent">4.38%</span>
+  <span class="percent">4.39%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
